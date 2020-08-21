@@ -1,0 +1,14 @@
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\Bin\Debug\ApplicationIcon.png
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\Bin\Debug\Background.png
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\Bin\Debug\io.cordova.myappc3aee22875064e7b9b49fef20f5d0b8d.dll
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\Bin\Debug\io.cordova.myappc3aee22875064e7b9b49fef20f5d0b8d.pdb
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\Bin\Debug\AppManifest.xaml
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\obj\Debug\App.g.cs
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\obj\Debug\io.cordova.myappc3aee22875064e7b9b49fef20f5d0b8d.g.resources
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\obj\Debug\io.cordova.myappc3aee22875064e7b9b49fef20f5d0b8d.dll
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\obj\Debug\io.cordova.myappc3aee22875064e7b9b49fef20f5d0b8d.pdb
+D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\wp8\obj\Debug\XapCacheFile.xml
