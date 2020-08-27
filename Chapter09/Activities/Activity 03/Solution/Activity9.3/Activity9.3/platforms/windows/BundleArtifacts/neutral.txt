@@ -1,0 +1,2 @@
+MainPackage=C:\Users\sachin.aggarwal\Documents\Visual Studio 2015\Projects\Activity9.3\Activity9.3\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone_1.0.0.0_anycpu_debug.appx
+ResourcePack=C:\Users\sachin.aggarwal\Documents\Visual Studio 2015\Projects\Activity9.3\Activity9.3\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone_1.0.0.0_scale-100.appx

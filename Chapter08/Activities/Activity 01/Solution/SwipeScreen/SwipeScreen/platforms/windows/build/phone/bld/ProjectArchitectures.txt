@@ -1,0 +1,1 @@
+E:\temp\SwipeScreen\SwipeScreen\SwipeScreen\platforms\windows\CordovaApp.Phone.jsproj;neutral

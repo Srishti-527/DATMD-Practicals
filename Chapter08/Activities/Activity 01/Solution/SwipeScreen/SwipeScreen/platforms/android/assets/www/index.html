@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>SwipeScreen</title>
+    <!-- SwipeScreen references -->
+    <link id='themeStylesheet' rel="stylesheet">
+</head>
+<body>
+     <nav class="current">
+        <h2>Photo Viewer</h2>
+    </nav>
+      <article id='Beach1' class="current">
+        <section>
+            <div class="msg" style="color:red; margin-left:6px"></div>
+            <h2>Sea Beach</h2>
+            <div class="list">
+                <p class="comp">
+                    <img src="images/Beach.jpg" height="300" width="300" style="margin-left:1em" />
+                </p>
+            </div>
+        </section>
+    </article>
+
+    <nav class="next">
+        <h2>Photo Viewer</h2>
+    </nav>
+    <article id='nature1' class="next">
+        <section>
+            <div class="msg" style="color:red; margin-left:6px"></div>
+            <h2>Nature</h2>
+                 <div class="list">
+                   <p class="comp">
+                       <img src="images/Nature.jpg" height="300" width="300" style="margin-left:1em"  />
+                    </p>
+                </div>
+         </section>
+    </article>
+
+    <nav class="next">
+        <h2>Photo Viewer</h2>
+   </nav>
+    <article id='sky1' class="next">
+        <section>
+            <h2>Sky</h2>
+            <div class="list">
+
+                <p class="comp">
+                    <img src="images/Sky.jpg" height="300" width="300" style="margin-left:1em" />
+               </p>
+            </div>
+        </section>
+    </article>
+  
+   
+    <!-- Cordova reference, this is added to your app when it's built. -->
+    <script src="cordova.js"></script>
+    <script src="scripts/platformOverrides.js"></script>
+    <script src="scripts/jquery-2.1.0.js"></script>
+    <script src="scripts/chui-3.8.5.js"></script>
+    
+    <script src="scripts/index.js"></script>
+</body>
+</html>

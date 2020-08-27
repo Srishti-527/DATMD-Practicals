@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="io.cordova.myapp954c66e44d8e4e3088812067262717d9" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/images/SplashScreen.png"/>
+				<NamedResource name="SplashScreenPhone.png" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/images/SplashScreenPhone.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreenPhone.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/images/Square30x30Logo.png"/>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/images/Square310x310Logo.png"/>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/images/Square70x70Logo.png"/>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="cordova.js" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="index.css" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/css/index.css">
+						<Candidate type="Path">
+							<Value>www\css\index.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="images">
+					<NamedResource name="Navigator.jpg" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/images/Navigator.jpg">
+						<Candidate type="Path">
+							<Value>www\images\Navigator.jpg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="plugins">
+					<ResourceMapSubtree name="org.apache.cordova.geolocation">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="GeolocationProxy.js" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/plugins/org.apache.cordova.geolocation/src/windows/GeolocationProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\org.apache.cordova.geolocation\src\windows\GeolocationProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="Coordinates.js" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/plugins/org.apache.cordova.geolocation/www/Coordinates.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.geolocation\www\Coordinates.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="geolocation.js" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/plugins/org.apache.cordova.geolocation/www/geolocation.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.geolocation\www\geolocation.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Position.js" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/plugins/org.apache.cordova.geolocation/www/Position.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.geolocation\www\Position.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="PositionError.js" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/plugins/org.apache.cordova.geolocation/www/PositionError.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.geolocation\www\PositionError.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="scripts">
+					<NamedResource name="index.js" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/scripts/index.js">
+						<Candidate type="Path">
+							<Value>www\scripts\index.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platformOverrides.js" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/scripts/platformOverrides.js">
+						<Candidate type="Path">
+							<Value>www\scripts\platformOverrides.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="winstore-jscompat.js" uri="ms-resource://io.cordova.myapp954c66e44d8e4e3088812067262717d9/Files/www/scripts/winstore-jscompat.js">
+						<Candidate type="Path">
+							<Value>www\scripts\winstore-jscompat.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
